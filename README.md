@@ -1,5 +1,5 @@
 # flipkartclone2.github.io
-#<html>
+<html>
 <head>
 <title>flipkart
 </title>
